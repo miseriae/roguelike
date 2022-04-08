@@ -1,1 +1,1 @@
-# roguelike
+# simple roguelike
